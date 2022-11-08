@@ -1,0 +1,19 @@
+jarvis_aktywacja dżarwis aktywacja
+jarvis_analiza dżarwis analiza
+jarvis_muzyka dżarwis muzyka
+jarvis_nastroj dżarwis nastrój
+jarvis_v1 dżarwis
+jarvis_v2 dżarwis
+odblokuj_drzwi odblokuj dżwi
+Opusc_Rolety opuść rolety
+otworz_garaz otwórz garaż 
+podkrec_klimatyzacje_o_1_stopień podkręć klimatyzacje o jeden stopień 
+poglosnij_muzykę pogłośnij muzykę 
+przegladarka_jaka_bedzie_dzis_pogoda przeglądarka, jaka będzie dziś pogoda
+przegladarka_jakie_sa_dzis_mecze przeglądarka, jakie są dziś mecze
+przyciemnij_oswietlenie przyciemnij oświetlenie
+scisz_muzyke ścisz muzykę
+wlacz_klimatyzacje włącz klimatyzacje
+wlacz_muzyke włącz muzykę
+zablokuj_drzwi zablokuj drzwi
+zamknij_drzwi zamknij drzwi
